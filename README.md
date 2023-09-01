@@ -1,7 +1,7 @@
 # Programming Principles, SNU 4190.210, 2023 Fall
 
 - Instructor: Prof. [Chung-Kil Hur](http://sf.snu.ac.kr/gil.hur)
-- TA: [Ho Young Jhoo](https://sf.snu.ac.kr/hoyoung.jhoo/)
+- TA: [Ho Young Jhoo](https://sf.snu.ac.kr/hoyoung.jhoo/), [Jaehyung Lee](https://sf.snu.ac.kr/jaehyung.lee/)
   - Office: Bldg 302 Rm 315
   - Email address: pp@sf.snu.ac.kr
 
