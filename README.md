@@ -40,4 +40,18 @@ foo(10)
 ```
 - Or, you can use [GitHub Gist](https://gist.github.com/).
 
+### Scala
+
+- Starting this year, we will NOT use the old **Scala 2**. You must use Scala 3.
+- Latest version: [3.3.0](https://www.scala-lang.org/)
+- Use IDEs to write a Scala program.
+  - IntelliJ IDEA, VSCode, Eclipse, Emacs, etc
+  - VSCode will be used from both tutorial and exam.
+  - We do not recommend to depend on Copilot. Our clone checker may detect your code as a copied script.
+
+### Rust
+
+- Latest version: [1.72.0](https://www.rust-lang.org)
+- We recommend VSCode editor for Rust.
+
 #### Honor Code: _DO NOT CHEAT_
