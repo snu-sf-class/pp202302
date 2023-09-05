@@ -30,6 +30,10 @@ You can see the history of the lecture slide from [commit logs](https://github.c
 
 ## Must Read
 
+### How to Install Development Tools
+
+See [this](https://merhs.notion.site/1-749e2bf3caef4023a222186fea38a5ae?pvs=4)
+
 ### Questions
 
 - Ask questions in the [GitHub repository issue tracker](https://github.com/snu-sf-class/pp202302/issues).
