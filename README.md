@@ -11,7 +11,7 @@ Please see [Issue tracker](https://github.com/snu-sf-class/pp202302/issues)
 
 ## Lecture slide updates
 
-Download 'lecture.pdf'. (TBD)
+Download [lecture.pdf](https://github.com/snu-sf-class/pp202302/blob/main/lecture.pdf)
 
 You can see the history of the lecture slide from [commit logs](https://github.com/snu-sf-class/pp202302/commits/main)
 
