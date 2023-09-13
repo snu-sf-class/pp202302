@@ -17,7 +17,7 @@ You can see the history of the lecture slide from [commit logs](https://github.c
 
 ## Assignments
 
-[**Homework Repo**](https://github.com/snu-sf-class/pp202302-private](https://git.kinetc.net:20102)
+[**Homework Repo**](https://git.kinetc.net:20102)
 
 - Download skeleton code and replace `???` with your code
 - No delayed submission
@@ -26,7 +26,8 @@ You can see the history of the lecture slide from [commit logs](https://github.c
 - Please check [errata](https://github.com/snu-sf-class/pp202302/issues/1) regularly
 
 | No. | Published | Due | Description |
-| 0 | 2023/09/13 | Midterm Exam - 7 days | GitLab Test |
+| --- | --------- | --- | ----------- |
+| 0   | 2023/09/13 | Midterm Exam - 7 days | GitLab Test |
 
 ## Must Read
 
