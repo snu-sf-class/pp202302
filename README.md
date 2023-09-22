@@ -28,6 +28,7 @@ You can see the history of the lecture slide from [commit logs](https://github.c
 | No. | Published | Due | Description |
 | --- | --------- | --- | ----------- |
 | 0   | 2023/09/13 | Midterm Exam - 7 days | GitLab Test |
+| 1   | 2023/09/23 | 2023/10/3 23:59:59 KST | Basic Recursive functions |
 
 ## Must Read
 
