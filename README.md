@@ -9,6 +9,8 @@
 
 Please see [Issue tracker](https://github.com/snu-sf-class/pp202302/issues)
 
+- 10/5: Midterm schedule is announced
+
 ## Lecture slide updates
 
 Download [lecture.pdf](https://github.com/snu-sf-class/pp202302/blob/main/lecture.pdf)
