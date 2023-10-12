@@ -31,6 +31,7 @@ You can see the history of the lecture slide from [commit logs](https://github.c
 | --- | --------- | --- | ----------- |
 | 0   | 2023/09/13 | Midterm Exam - 7 days | GitLab Test |
 | 1   | 2023/09/23 | 2023/10/3 23:59:59 KST | Basic Recursive functions |
+| 2   | 2023/10/12 | 2023/10/31 23:59:59 KST | Algebraic Data Types |
 
 ## Must Read
 
