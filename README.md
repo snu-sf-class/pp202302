@@ -10,6 +10,7 @@
 Please see [Issue tracker](https://github.com/snu-sf-class/pp202302/issues)
 
 - 10/5: Midterm schedule is announced
+- 11/16 : There will be no class in 11/16
 
 ## Lecture slide updates
 
