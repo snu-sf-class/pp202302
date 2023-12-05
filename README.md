@@ -34,6 +34,7 @@ You can see the history of the lecture slide from [commit logs](https://github.c
 | 1   | 2023/09/23 | 2023/10/3 23:59:59 KST | Basic Recursive functions |
 | 2   | 2023/10/12 | 2023/10/31 23:59:59 KST | Algebraic Data Types |
 | 3/4   | 2023/11/22 | 2023/12/7 23:59:59 KST | OOP & Type class |
+| Prj.   | 2023/11/30 | 2023/12/20 23:59:59 KST | Interpreter |
 
 ## Must Read
 
